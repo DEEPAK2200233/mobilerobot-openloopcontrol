@@ -83,7 +83,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![image](https://github.com/DEEPAK2200233/mobilerobot-openloopcontrol/assets/118707676/27ae49ae-ede1-4357-b58f-475d8359fe9f)
+
 
 ## MobileRobot Movement Video:
 
@@ -91,10 +92,6 @@ https://www.youtube.com/watch?v=L9JPWnLLoL0
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
